@@ -6,3 +6,4 @@ How can I see EVERY prediction market of correlated events in ONE place? So can 
 Or following the best historical traders and only trade in markets where the historically good traders are almost all on one side? maybe
 make awesome prediction market or look at
 polymarket help them to work?
+  keep tabs on all new and emerging prediction markets to add data integrations for
