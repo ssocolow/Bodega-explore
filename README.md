@@ -7,3 +7,6 @@ Or following the best historical traders and only trade in markets where the his
 make awesome prediction market or look at
 polymarket help them to work?
   keep tabs on all new and emerging prediction markets to add data integrations for
+
+## hub of information - combining news w market changes
+figure out which markets and signals are first to news
