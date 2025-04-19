@@ -10,3 +10,6 @@ polymarket help them to work?
 
 ## hub of information - combining news w market changes
 figure out which markets and signals are first to news
+
+## ethics / value of prediction markets
+- see real shifts in sentiment when markets are deep enough
